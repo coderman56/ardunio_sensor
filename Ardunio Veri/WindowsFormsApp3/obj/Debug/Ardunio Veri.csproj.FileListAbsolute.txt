@@ -1,0 +1,67 @@
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ZedGraph.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ZedGraph.xml
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Ardunio Veri.csprojResolveAssemblyReference.cache
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Anasayfa.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Giris.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.foto.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ky_021_Manyetik_Alan.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ky_027_Light_Cup.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.KY_040.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Led.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Nem_Ve_Sıcaklık_KY_015.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sıcaklık_KY_001.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Uzaklık.resources
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Ardunio Veri.csproj.GenerateResource.Cache
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\game\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\ZedGraph.xml
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\Ardunio Veri.csprojResolveAssemblyReference.cache
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Anasayfa.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Giris.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.foto.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ky_021_Manyetik_Alan.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ky_027_Light_Cup.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.KY_040.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Led.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Nem_Ve_Sıcaklık_KY_015.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sıcaklık_KY_001.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Uzaklık.resources
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\Ardunio Veri.csproj.GenerateResource.Cache
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\game\Desktop\Ardunio Veri\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
